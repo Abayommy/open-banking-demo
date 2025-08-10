@@ -2,23 +2,23 @@ A comprehensive PSU-TPP-ASPSP demonstration platform showcasing Open Banking flo
 
 ## Features
 
-✅ **PSP Registry & Onboarding**
+ **PSP Registry & Onboarding**
 - Complete onboarding flow with KYC simulation
 - Certificate generation
 - API key provisioning
 
-✅ **Account Information Service (AIS)**
+ **Account Information Service (AIS)**
 - OAuth 2.0 authentication flow
 - Consent management
 - Real-time account data retrieval
 - Balance and transaction history
 
-✅ **Payment Initiation Service (PIS)**
+ **Payment Initiation Service (PIS)**
 - Payment consent flow
 - Strong Customer Authentication (SCA)
 - Payment execution and tracking
 
-✅ **Security & API Gateway**
+ **Security & API Gateway**
 - OAuth 2.0 with PKCE
 - JWT token management
 - Rate limiting simulation
